@@ -1,0 +1,20 @@
+Where Plates From
+Plates 1-50 from Olav's British number plates at http://olavsplates.com/great_britain.html
+Plates 50-70 from The Y2K page at http://www.plateshack.com/y2k/United_Kingdom/uky2k.html
+
+Plate Counts
+Plates 1-25: Front Plates, All Vehicles
+Plates 26-50: Back Plates, Plate 39 Missing Vehicle
+Plates 51-70: Front then Back Plate, No Vehicles
+
+Inconsistencies in plates:
+Some plates are bent.
+Some plates are 1 line, others are 2.
+Some plates have "reflective" lettering.
+Some plates have "tag" (eg. GB, Green Line) on left side.
+Plates are shot at different amounts of cleanliness.
+Plates are shot under different lighting conditions.
+Plates are held in position in different ways, potentially covering plate.
+Plates are not cropped perfectly.
+Vehicles pictures are completely inconsistent.
+

@@ -1,0 +1,14 @@
+The program reads information from the "Input Data" folder. Therefore, please enter the images you wish to use the program on in this folder.
+The program reads information from the folder in alphabetical order. Therefore, it is recomended you use a filename/numbering system such as "plate 001", "plate 002".
+The provided data already has a pre-existing filename/numbering system; however, you are still advised to pay attention to what you leave in the Input Data folder.
+
+The program treats front and back plates differently. As such, you are required to edit the "Plate Type.csv" file when you enter new images.
+The Plate Type CSV consists of 1 line, containing the words "True" or "False", always seperated by a comma. Please enter "True" if an image is a front plate, or "False" if an image is a back plate, in the alphabetical order of images in the Input Data folder.
+
+The program will take longer to run the more images you ask it to process. It is therefore reccomended you run the program on no more than 10 images at a time if you wish to see quick results.
+The program sometimes has trouble discerning what is a bugsplat and what is a plate feature. For optimal results, enter images of your plate clean and dirty, and deduct the former output from the latter.
+The program sometimes has trouble with number plates containing "tags" such as flags on the side of a plate. While some tags such as green "zero emission" tags should be fine, for optimal results you may want to crop other tags from input images.
+
+
+
+
